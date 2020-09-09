@@ -1,0 +1,24 @@
+header {
+    background-color: #004175;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    border-color: #89DEEF;
+}
+
+.flex-container {
+    display: inline;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  
+  }
+
+.doggystyle {
+     margin: auto;
+  
+
+}
